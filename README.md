@@ -17,9 +17,6 @@ Currently available crypto prices:
 - Quant
 - Algorand
 
-## Motivation
-I created this rather simple discord bot to provide convenient crypto related data for me and my friends on our shared discord server  
-
 ## Installation
 Before running the code make sure to install the packages listed below
 
